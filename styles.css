@@ -1,0 +1,33 @@
+.post{
+    width: 400px;
+    margin:auto ;
+}
+.post-header{
+    display: flex;
+    width: 100%;
+}
+.logo{
+    margin: 5px;
+    padding: 5px;
+    
+}
+.nombre-usuario p{ 
+    padding: 0px;
+    margin: 0px;
+    text-align: justify;
+}
+.nombre-usuario{
+    width: 85%;
+}
+
+#bookmark{
+    float: right;
+}
+
+div .post-footer p{
+    text-align: justify;
+}
+
+
+
+   
